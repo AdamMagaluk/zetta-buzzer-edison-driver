@@ -1,0 +1,31 @@
+{
+  "name": "zetta-buzzer-edison-driver",
+  "version": "0.9.0",
+  "description": "Piezo buzzer edison driver for zetta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Magaluk <AdamMagaluk@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zettajs/zetta-buzzer-edison-driver.git"
+  },
+  "dependencies": {
+    "mraa-js": "^0.1.0",
+    "zetta-auto-scout": "^0.5.0",
+    "zetta-device": "^0.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/zettajs/zetta-buzzer-edison-driver/issues"
+  },
+  "homepage": "https://github.com/zettajs/zetta-buzzer-edison-driver",
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "zetta",
+    "edison"
+  ]
+}
